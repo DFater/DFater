@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Android-developer from Moscow</h3>
 
-- ⚡ Education **Yandex Practicum**
+- ⚡ Education: **Yandex Practicum**
 
 <p align="left">
 </p>
